@@ -1,0 +1,25 @@
+STAY SAFE ONLINE: THE STUDENT'S CHECKLIST
+
+Never Enter a UPI PIN to Receive Money: This is the most critical rule for Indian digital payments. You only need your PIN to send money or check your balance. If someone sends you a QR code and asks for a PIN to "refund" or "pay" you, it is a scam.
+
+Verify "Collect" Requests: If you receive a notification on PhonePe, Google Pay, or Paytm asking you to "Pay" or "Approve" a request from an unknown ID, decline it immediately and report the user within the app.
+
+Enable Two-Factor Authentication (2FA): Go beyond passwords for your Gmail, LinkedIn, and Instagram accounts. Use an authenticator app (like Google Authenticator) so that even if someone steals your password, they cannot log in without the temporary code on your phone.
+
+Audit Your App Permissions: Periodically check which apps have access to your contacts, microphone, and location. Many "free" utility apps or unofficial "modded" versions of apps (like GB WhatsApp) are designed to scrape your personal data.
+
+Use a Separate Email for Academic/Job Portals: Create one professional email address specifically for internship applications and official college work. Use a different, private email for social media and shopping to limit the impact of potential data breaches.
+
+Avoid Public Wi-Fi for Sensitive Tasks: Never log into your bank account or university portal using free Wi-Fi at cafes, railway stations, or airports. If you must use them, use a trusted VPN to encrypt your connection.
+
+Check for 'HTTPS' and Padlocks: Before entering your roll number or payment details on any website, ensure the URL starts with https://. This indicates that the communication between your browser and the server is encrypted.
+
+Spot Phishing in "Official" Notices: Be sceptical of WhatsApp messages or emails claiming to be from the "Scholarship Department" or "Exam Branch" that ask you to click a link to "verify details." Always verify such notices on the official university website or notice board first.
+
+HOW TO REPORT A CYBERCRIME
+
+If you or a friend falls victim to a scam—especially a financial one—time is of the essence. Use these official Government of India channels immediately:
+
+Dial 1930: This is the National Cybercrime Helpline number. Calling this immediately after a financial fraud increases the chances of the bank "freezing" the transaction before the attacker can withdraw the cash.
+
+National Cyber Crime Reporting Portal: Visit cybercrime.gov.in to file a formal complaint. You can report anonymously if the crime involves harassment or cyberbullying.

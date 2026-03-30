@@ -1,0 +1,24 @@
+For this case study, let's analyse UPI/Online Payment Fraud, a cybercrime that has become increasingly prevalent in India, especially targeting students and young professionals who frequently use apps like PhonePe, Google Pay, or Paytm.
+
+Case Study: The "QR Code" Refund Scam
+What the Crime Is:
+UPI (Unified Payments Interface) fraud involves deceiving a victim into authorizing a digital transaction that drains their bank account. Unlike traditional hacking, this is a form of social engineering where the attacker manipulates the victim into giving up control of their funds.
+
+How It Typically Happens (Step-by-Step):
+
+The Bait: The attacker poses as a buyer on a platform like OLX or a customer service representative. They claim they need to send the victim a "refund" or a "payment" for an item.
+
+The Hook: Instead of asking for the victim's bank details, the attacker sends a QR Code via WhatsApp, claiming, "Scan this to receive your payment."
+
+The Deception: The victim scans the code, which opens their UPI app. The app then asks for their UPI PIN. The attacker verbally pressures the victim, saying, "Hurry, the link will expire!"
+
+The Theft: The moment the victim enters their PIN, they are actually authorizing a 'Collect' request rather than receiving money. The funds are instantly transferred from the victim’s account to the attacker’s "mule" account.
+
+Who is Typically Targeted:
+Small business owners, students selling used items online, and elderly individuals who are new to digital payments are the primary targets. Attackers look for people who are in a hurry or unfamiliar with the technical distinction between "sending" and "receiving" functions.
+
+The Consequences:
+The immediate consequence is the financial loss, which is often difficult to recover because the transaction was "authorised" by the user's PIN. Beyond the money, victims often face significant psychological stress and a loss of trust in digital banking systems. For students, this could mean the loss of a semester's worth of savings or tuition money.
+
+Prevention Tip for your Portfolio
+In your report, you might want to highlight the "Golden Rule of UPI": You never need to enter your PIN to receive money. If an app asks for a PIN, money is leaving your account.
